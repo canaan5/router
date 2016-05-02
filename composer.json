@@ -17,7 +17,7 @@
       "php": ">=5.5.9",
       "canaan5/container": "1.*",
       "canaan5/provider": "1.*",
-      "symfony/http-foundation": "3.0"
+      "symfony/http-foundation": "3.*"
     },
     "autoload": {
       "psr-4": {
